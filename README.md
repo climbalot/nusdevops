@@ -8,3 +8,5 @@ Hi, this is my NUS devops test file.
 * and this is another one!
 
 ### This is an even smaller headline
+
+![](sentosa.jpg)
